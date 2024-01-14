@@ -8,7 +8,7 @@ const Question = ({ questionId, questionText, answerText }) => {
   };
 
   return (
-    <div className="transition-all duration-200 bg-white  rounded-xl cursor-pointer hover:bg-gray-50">
+    <div className="transition-all duration-200 bg-white rounded-xl shadow-md cursor-pointer hover:bg-gray-50">
       <button
         type="button"
         onClick={toggleAnswer}
@@ -63,9 +63,9 @@ const FAQ = () => {
             answerText="Yes, you can cancel your subscription at any time without any hidden fees. We believe in providing a hassle-free experience for our users."
           />
         </div>
-        <p className="text-center text-gray-600 textbase mt-9">
+        <p className="text-center text-gray-600 text-base mt-9">
           Still have questions?{' '}
-          <span className="cursor-pointer font-medium text-tertiary transition-all duration-200 hover:text-tertiary focus:text-tertiary hover-underline">
+          <span className="cursor-pointer font-medium text-[#756AB6] transition-all duration-200 hover:text-[#756AB6] focus:text-[#756AB6] hover-underline">
             Contact our support
           </span>
         </p>
