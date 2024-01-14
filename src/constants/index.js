@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Foto Produk yang Memikat",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Dengan fotografi produk berkualitas, produkmu akan bersinar dan menarik perhatian pelanggan potensial.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Desain Feed Instagram yang Unik",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Kami merancang setiap postingan dengan cermat, menciptakan alur visual yang menarik perhatian dan meningkatkan branding secara online.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Website Perusahaan yang Profesional",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Bangun keberadaan digital yang kuat dengan website perusahaan yang dirancang sesuai dengan karakter bisnismu.",
   },
 ];
 
